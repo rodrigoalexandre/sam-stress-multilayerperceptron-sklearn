@@ -1,6 +1,6 @@
 <div align="center">
 
-# sam-multilayer-perceptron
+# sam-multilayer-perceptron-sklearn
 
 <div align="justify">
 Project developed for the study presented in the report “Using Machine Learning to analyze stress levels in electroencephalogram data”. 
